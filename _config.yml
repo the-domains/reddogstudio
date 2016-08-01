@@ -1,0 +1,14 @@
+layout_spectrum: 0.8261508988216519
+typography_spectrum: 0.5999615828040987
+color:
+  brandStrength: 0.5119866295717657
+  lightness: 0.13110009394586086
+  saturation: 0.6621287225279957
+  rhythmicContrast: 0.14321343787014484
+  brandColors:
+    - '#E7E8D1'
+    - '#D3CEAA'
+    - '#FBF7E4'
+    - '#424242'
+    - '#8E001C'
+name: reddogstudio

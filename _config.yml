@@ -1,4 +1,3 @@
-layout_spectrum: 0.8261508988216519
 typography_spectrum: 0.5999615828040987
 color:
   brandStrength: 0.5119866295717657
@@ -11,5 +10,10 @@ color:
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
+layout_spectrum: 0.8261508988216519
+author:
+  name: Chuck
+  email: chuck@reddogstudio.com
+  url: thegrid.ai/reddogstudio
 name: reddogstudio
 title: Full Service Audio/Visual Communnications

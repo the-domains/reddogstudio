@@ -2,16 +2,30 @@
     <channel>
         <title><![CDATA[Red Dog Studio]]></title>
         <description><![CDATA[Red Dog Studio]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/reddogstudio/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Aug 2016 13:27:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Aug 2016 13:29:28 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/reddogstudio/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[New York Irony]]></title>
             <description><![CDATA[<article><h1>New York Irony</h1><p>Here is the start of the NEW Red Dog Studio Web Site</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3b1b1a6df6d8d8dac7e0b05146271ab5001f71c1.jpg"></article>]]></description>
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/28db1835-2d8c-4a80-b692-05bfeb56b076.jpg</link>
             <guid isPermaLink="false">96636ce5-09e1-4843-b425-a24c9919ff8a</guid>
             <pubDate>Wed, 03 Aug 2016 13:27:22 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4301220-e2cb-4845-9e36-2792d50d8b64.jpg">]]></description>
+            <link>https://thegrid.ai/reddogstudio/718e6696-bf5d-42c2-9166-16af3a3a56d6/index.html</link>
+            <guid isPermaLink="false">718e6696-bf5d-42c2-9166-16af3a3a56d6</guid>
+            <pubDate>Wed, 03 Aug 2016 13:29:25 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Inspiration TED TALKS]]></title>
+            <description><![CDATA[<article><h1>Inspiration TED TALKS</h1><p>http://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f80c4b2-9b13-479a-8194-c7f5278c9989.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7f80c4b2-9b13-479a-8194-c7f5278c9989.png</link>
+            <guid isPermaLink="false">463303f4-dfb3-44f3-b328-b0f7d523b145</guid>
+            <pubDate>Wed, 03 Aug 2016 13:29:22 GMT</pubDate>
         </item>
     </channel>
 </rss>
